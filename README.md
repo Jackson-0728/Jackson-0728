@@ -1,7 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/186503824?s=400&u=f5e7d869d42205d0fafee38d71aa8ab9d01f47ec&v=4" alt="Logo" width="200" height="200">
-# Hi👋 I'm Jackson Liu - Full-stack software engineer
-
+---
 ## 💫 About Me
+
+👋 Hi! I'm Jackson Liu - Full-stack software engineer
 
 🚀 I’m currently working on **ProEdit**, an open-source AI-powered text editor focused on speed, clarity, and modern UX.
 
