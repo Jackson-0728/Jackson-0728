@@ -1,5 +1,17 @@
-# 💫 About Me:
-I'm currently working on ProEdit, the powerful open-source AI text editor<br>I'm currently learning Next.js
+# 💫 About Me
+
+👋 Hi, I’m **Jackson** — a creative technologist and full-stack developer who enjoys building **interactive, visually rich, and meaningful digital experiences**.
+
+🚀 I’m currently working on **ProEdit**, an open-source AI-powered text editor focused on speed, clarity, and modern UX.
+
+📚 I’m currently learning **Next.js** and diving deeper into modern React patterns, performance optimisation, and production-ready app architecture.
+
+🧠 I enjoy blending **design, motion, AI, and engineering**, and I’m especially interested in:
+- Interactive & motion-driven web experiences  
+- AI-assisted tools and creative workflows  
+- Clean, scalable frontend architecture  
+
+✨ I like projects where technology feels **alive**, intuitive, and purposeful.
 
 
 ## 🌐 Socials:
@@ -14,6 +26,3 @@ I'm currently working on ProEdit, the powerful open-source AI text editor<br>I'm
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://counter1.optistats.ovh/private/freecounterstat.php?c=mmy7crpu81ye4sc9dd2581undhg5q423)](https://www.freecounterstat.com)
