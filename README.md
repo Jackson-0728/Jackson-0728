@@ -1,4 +1,4 @@
-![logo](https://avatars.githubusercontent.com/u/186503824?v=4)
+<img src="https://avatars.githubusercontent.com/u/186503824?v=4" alt="Logo" width="200" height="200">
 # Hi👋 I'm Jackson Liu - Full-stack software engineer
 
 ## 💫 About Me
