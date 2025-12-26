@@ -1,5 +1,4 @@
-!(Logo)[https://avatars.githubusercontent.com/u/186503824?v=4]
-
+![logo](https://avatars.githubusercontent.com/u/186503824?v=4)
 # Hi👋 I'm Jackson Liu - Full-stack software engineer
 
 ## 💫 About Me
