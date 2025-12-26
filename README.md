@@ -1,6 +1,8 @@
-# 💫 About Me
+!(Logo)[https://avatars.githubusercontent.com/u/186503824?v=4]
 
-👋 Hi, I’m **Jackson** — a creative technologist and full-stack developer who enjoys building **interactive, visually rich, and meaningful digital experiences**.
+# Hi👋 I'm Jackson Liu - Full-stack software engineer
+
+## 💫 About Me
 
 🚀 I’m currently working on **ProEdit**, an open-source AI-powered text editor focused on speed, clarity, and modern UX.
 
